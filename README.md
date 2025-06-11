@@ -1,6 +1,6 @@
 Titanic Dataset - EDA
 
-This repository contains my solution for Task 2 of the AI & ML Internship.(ELEVATE LABS)
+This repository contains my solution for Task 2 of the AI & ML Internship. (ELEVATE LABS - MAY 2025)
 
 📊 Objective:
 Perform Exploratory Data Analysis (EDA) on the Titanic dataset using Python libraries.
